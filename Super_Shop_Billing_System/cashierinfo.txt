@@ -1,0 +1,1 @@
+Cashier_id: 10 Cashier_Name: Sadman Mobile_Number: 017524878  Address: 89/h,dhaka Email: sadman@gmail.com Password: 12345
